@@ -1,0 +1,21 @@
+/* *{
+    overflow-x: hidden;
+
+} */
+.email{
+    font-weight: bold;
+}
+.bg-dark{
+    bottom: 0px;
+}
+
+.fas{
+    background-color: black;
+    color: white;
+    
+}
+/* 
+.di{
+    position: absolute;
+    left: 60
+} */
