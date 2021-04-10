@@ -1,0 +1,20 @@
+{
+    "feedmail": {
+      "db": {
+          "url": "mongodb://localhost:27017",
+          "name": "dev",
+          "options": {
+              "useUnifiedTopology": true
+          }
+      },
+      "logger": {
+          "level": "debug",
+          "filename": "./backend.log"
+      },
+      "mailgun": {
+        "domain": "",
+        "apiKey": ""
+      },
+      "port": 8080
+    }
+  }
